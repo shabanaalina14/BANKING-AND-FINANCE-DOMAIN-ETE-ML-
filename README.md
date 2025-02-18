@@ -19,8 +19,6 @@ The project aims to use machine learning to automate this process in real-time, 
 5. [Usage](#usage)
 6. [Technologies](#technologies)
 7. [Model Evaluation](#model-evaluation)
-8. [Contributing](#contributing)
-9. [License](#license)
 
 ## Business Problem Understanding
 
@@ -130,20 +128,3 @@ The project implements various evaluation metrics to assess the performance of t
 
 These metrics help determine the effectiveness of the model in classifying customers as eligible or ineligible for loans based on the given features.
 
-## Contributing
-
-Contributions are welcome! If you want to improve or add to this project, feel free to submit a pull request or open an issue.
-
-1. Fork the repository.
-2. Create your branch (`git checkout -b feature-branch`).
-3. Commit your changes (`git commit -am 'Add new feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Create a new Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-This README provides a detailed overview of the project, from the business problem to how to use the project and what technologies are involved. You can modify it to include more specifics depending on how the project is structured and the particular methods used.
