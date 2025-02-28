@@ -260,15 +260,9 @@ Contact For any questions or suggestions, please feel free to reach.
 
 Gmail: shabanaalina14@gmail.com
 
-GitHub Profile: shabanaalina14
+GitHub Profile: https://github.com/shabanaalina14
+
+Happy Coding!
 
 
-These metrics help determine the effectiveness of the model in classifying customers as eligible or ineligible for loans based on the given features.
 
-git clone https://github.com/shabanaalina14/BANKING-AND-FINANCE-DOMAIN-ETE-ML-
-
-Contact For any questions or suggestions, please feel free to reach.
-
-Gmail: shabanaalina14@gmail.com
-
-GitHub Profile: shabanaalina14
